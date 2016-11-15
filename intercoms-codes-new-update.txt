@@ -1,3 +1,0 @@
-LastVersionName 2.1
-
-LastVersionCode 11
