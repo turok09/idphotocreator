@@ -1,0 +1,23 @@
+SOFTWARE LICENSE AGREEMENT
+
+PLEASE READ THIS SOFTWARE LICENSE AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE.
+
+ID Photo Creator evaluation trial. This means: 
+
+The author exclusively owns all copyrights to ID Photo Creator. 
+
+Anyone may use this software during a test period of 15 days. Following this test period of 15 days or less, if you wish to continue to use ID Photo Creator, you MUST register. 
+
+Once registered, the user is granted a non-exclusive license to use ID Photo Creator on one computer (i.e. a single CPU), for any legal purpose, at a time. The registered ID Photo Creator software may not be rented or leased but may be permanently transferred, if the person receiving it agrees to terms of this license. If the software is an update, the transfer must include the update and all previous versions. 
+
+ID Photo Creator unregistered shareware version may be freely distributed, if the distribution package is not modified. No person or company may charge a fee for the distribution of ID Photo Creator without written permission from the copyright holder. 
+
+ID PHOTO CREATOR IS DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE AT YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE. 
+
+You may not use, copy, emulate, clone, rent, lease, sell, modify, decompile, disassemble, otherwise reverse engineer, or transfer the licensed program, or any subset of the licensed program, except as provided for in this agreement. Any such unauthorised use shall result in immediate and automatic termination of this license and may result in criminal and/or civil prosecution. 
+
+The author reserves all rights not expressly granted here. 
+
+Installing and using ID Photo Creator signifies acceptance of these terms and conditions of the license. 
+
+If you do not agree with the terms of this license you must remove ID Photo Creator files from your storage devices and cease to use the product.
