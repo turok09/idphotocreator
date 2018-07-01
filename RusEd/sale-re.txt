@@ -1,0 +1,9 @@
+-- Application Sale File
+
+s_id = "ANDROID-APP-PROMO-RUS-20160704";
+s_name = "Android App Promo";
+s_start = 20160704;
+s_end = 20161231;
+s_days = 180;
+s_redir_url = "https://play.google.com/store/apps/details?id=ru.amsasoft.idphotoguide";
+s_image_url = "http://files.redhost.info/files/53/IDPhotoCreator/Images/Sale/android-app-promo-rus-2016.jpg";

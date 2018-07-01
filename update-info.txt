@@ -1,0 +1,27 @@
+-- Update Info File
+
+
+-- [Application Section]
+
+app_new_ver = "1.3.1.5" -- Application new version
+app_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/ID-Photo-Creator-Setup-1.3.1.5.zip" -- Application download link
+app_dwld_sign = "1876328048" -- Application download signature
+
+app_min_ver = "1.3.0.0" -- Application minimum version
+
+
+if app_edit == "IE" then -- International Edition
+
+-- [Database Section]
+
+db_new_ver = "20180207" -- Database new version 
+db_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/IntEd/20180207.pcb" -- Database download link
+
+elseif app_edit == "RE" then -- Russian Edition
+
+-- [Database Section]
+
+db_new_ver = "20180207" -- Database new version 
+db_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/RusEd/20180207.pcb" -- Database download link
+
+end

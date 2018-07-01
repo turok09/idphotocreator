@@ -1,0 +1,9 @@
+-- Application Sale File
+
+s_id = "SALE-INT-20170910";
+s_name = "Save Big";
+s_start = 20170910;
+s_end = 20170930;
+s_days = 21;
+s_redir_url = buy_app_link;
+s_image_url = "http://files.redhost.info/files/53/IDPhotoCreator/Images/Sale/sale-int-20170910.jpg";
