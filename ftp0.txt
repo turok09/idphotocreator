@@ -1,0 +1,2 @@
+ftpstore2.radiushost.ru
+188.65.208.15:21
