@@ -2,16 +2,16 @@
 
 if lang_code == "Eng" then
 
--- Help File for version 1.3.1.0
+-- Help File for version 1.3.3.0
 
 help_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/Help_Eng.chm" -- Help download link
-help_dwld_sign = "1368660589" -- Help download signature
+help_dwld_sign = "1694421275" -- Help download signature
 
 elseif lang_code == "Rus" then
 
--- Help File for version 1.3.1.0
+-- Help File for version 1.3.3.0
 
 help_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/Help_Rus.chm" -- Help download link
-help_dwld_sign = "4121159988" -- Help download signature
+help_dwld_sign = "2283656871" -- Help download signature
 
 end
