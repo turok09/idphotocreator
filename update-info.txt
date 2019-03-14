@@ -7,12 +7,17 @@ app_new_ver = "1.3.3.8" -- Application new version
 app_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/ID-Photo-Creator-Setup-1.3.3.8.zip" -- Application download link
 app_dwld_sign = "3180965863" -- Application download signature
 
-app_min_ver = "1.3.0.0" -- Application minimum version
+app_new_ver_beta = "1.3.4.0" -- Application new beta version
+app_dwld_link_beta = "https://github.com/turok09/idphotocreator/raw/master/ID-Photo-Creator-Setup-1.3.4.0-Beta.zip" -- Application beta download link
+app_dwld_sign_beta = "0" -- Application beta download signature
 
-new_ver_info = "" -- New version information
+app_min_ver = "1.3.0.0" -- Application minimum version
 
 
 if app_edit == "IE" then -- International Edition
+
+new_ver_info = "- New feature;- Improved feature." -- New version information
+new_ver_info_beta = "- New beta feature;- Improved feature."  -- New beta version information
 
 -- [Database Section]
 
@@ -20,6 +25,9 @@ db_new_ver = "20180207" -- Database new version
 db_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/IntEd/20180207.pcb" -- Database download link
 
 elseif app_edit == "RE" then -- Russian Edition
+
+new_ver_info = "- Новая функция;- Улучшенная функция." -- New version information
+new_ver_info_beta = "- Новая бета-функция;- Улучшенная функция."  -- New beta version information
 
 -- [Database Section]
 
