@@ -15,13 +15,13 @@ app_min_ver = "1.3.5.0" -- Application minimum version
 
 if app_edit == "IE" then -- International Edition
 
-new_ver_info = "- Improved the software activation/deactivation system." -- New version information
+new_ver_info = "- Automatic deletion of old orders;- Dimming the photo area outside the crop frame;- Multiple interface related improvements." -- New version information
 
 new_ver_info_beta = ""  -- New beta version information
 
 elseif app_edit == "RE" then -- Russian Edition
 
-new_ver_info = "- Улучшенная система активации/деактивации программы." -- New version information
+new_ver_info = "- Функция автоматического удаления старых заказов;- Затемнение области фотографии вне рамки обрезки;- Многочисленные улучшения, связанные с интерфейсом программы." -- New version information
 
 new_ver_info_beta = ""  -- New beta version information
 
