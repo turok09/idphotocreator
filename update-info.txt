@@ -3,9 +3,9 @@
 
 -- [Application Section]
 
-app_new_ver = "1.3.6.0" -- Application new version
-app_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/ID-Photo-Creator-Setup-1.3.6.0.zip" -- Application download link
-app_dwld_sign = "944451412" -- Application download signature
+app_new_ver = "1.3.6.1" -- Application new version
+app_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/ID-Photo-Creator-Setup-1.3.6.1.zip" -- Application download link
+app_dwld_sign = "1986479612" -- Application download signature
 
 app_new_ver_beta = "1.3.5.0" -- Application new beta version
 app_dwld_link_beta = "https://github.com/turok09/idphotocreator/raw/master/ID-Photo-Creator-Setup-1.3.5.0-Beta.zip" -- Application beta download link
@@ -15,13 +15,13 @@ app_min_ver = "1.3.5.0" -- Application minimum version
 
 if app_edit == "IE" then -- International Edition
 
-new_ver_info = "- Automatic deletion of old orders;- Dimming the photo area outside the crop frame;- Multiple interface related improvements." -- New version information
+new_ver_info = "- Fixed a bug of photo corner selection." -- New version information
 
 new_ver_info_beta = ""  -- New beta version information
 
 elseif app_edit == "RE" then -- Russian Edition
 
-new_ver_info = "- Функция автоматического удаления старых заказов;- Затемнение области фотографии вне рамки обрезки;- Многочисленные улучшения, связанные с интерфейсом программы." -- New version information
+new_ver_info = "- Исправлен баг при выборе уголка на фото." -- New version information
 
 new_ver_info_beta = ""  -- New beta version information
 
