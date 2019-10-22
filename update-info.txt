@@ -3,9 +3,9 @@
 
 -- [Application Section]
 
-app_new_ver = "1.3.6.1" -- Application new version
-app_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/ID-Photo-Creator-Setup-1.3.6.1.zip" -- Application download link
-app_dwld_sign = "1986479612" -- Application download signature
+app_new_ver = "1.3.6.4" -- Application new version
+app_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/ID-Photo-Creator-Setup-1.3.6.4.zip" -- Application download link
+app_dwld_sign = "515016297" -- Application download signature
 
 app_new_ver_beta = "1.3.5.0" -- Application new beta version
 app_dwld_link_beta = "https://github.com/turok09/idphotocreator/raw/master/ID-Photo-Creator-Setup-1.3.5.0-Beta.zip" -- Application beta download link
@@ -13,17 +13,17 @@ app_dwld_sign_beta = "0" -- Application beta download signature
 
 app_min_ver = "1.3.5.0" -- Application minimum version
 
-if app_edit == "IE" then -- International Edition
+if sUserLangID == "25" then
 
-new_ver_info = "- Fixed a bug of photo corner selection." -- New version information
+new_ver_info = "- Многочисленные небольшие улучшения и дополнения." -- New version information (Russian)
 
-new_ver_info_beta = ""  -- New beta version information
+new_ver_info_beta = ""  -- New beta version information (Russian)
 
-elseif app_edit == "RE" then -- Russian Edition
+else
 
-new_ver_info = "- Исправлен баг при выборе уголка на фото." -- New version information
+new_ver_info = "- Multiple minor improvements and additions." -- New version information (English)
 
-new_ver_info_beta = ""  -- New beta version information
+new_ver_info_beta = ""  -- New beta version information (English)
 
 end
 
