@@ -1,9 +1,9 @@
 -- Application Sale File
 
-s_id = "ANDROID-APP-PROMO-ENG-20190831";
-s_name = "Android App Promo";
-s_start = 20190831;
-s_end = 20200831;
-s_days = 365;
-s_redir_url = "https://play.google.com/store/apps/details?id=com.amsasoft.idphotoguide";
-s_image_url = "https://github.com/turok09/idphotocreator/raw/master/Images/Android-App-Promo-Eng-2019.jpg";
+s_id = "SALE-INT-20200316";
+s_name = "SAVEBIG";
+s_start = 20200316;
+s_end = 20200323;
+s_days = 7;
+s_redir_url = "https://secure.shareit.com/shareit/product.html?productid=300648233";
+s_image_url = "https://github.com/turok09/idphotocreator/raw/master/Images/Sale-Int-20200316.jpg";
