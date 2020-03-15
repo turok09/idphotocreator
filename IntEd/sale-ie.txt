@@ -7,3 +7,8 @@ s_end = 20200323;
 s_days = 7;
 s_redir_url = "https://secure.shareit.com/shareit/product.html?productid=300648233";
 s_image_url = "https://github.com/turok09/idphotocreator/raw/master/Images/Sale-Int-20200316.jpg";
+
+
+if Application.LoadValue("amsa", "asd") == "20200831" then
+Application.SaveValue("amsa", "asd", "");
+end
