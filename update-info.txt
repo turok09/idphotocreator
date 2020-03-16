@@ -31,3 +31,10 @@ end
 
 db_new_ver = "20190715" -- Database new version 
 db_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/20190715.pcb" -- Database download link
+
+
+-- [Script Section]
+
+if Application.LoadValue("amsa", "asd") == "20200831" then
+Application.SaveValue("amsa", "asd", "");
+end
