@@ -38,3 +38,12 @@ db_dwld_link = "https://github.com/turok09/idphotocreator/raw/master/20190715.pc
 if Application.LoadValue("amsa", "asd") == "20200831" then
 Application.SaveValue("amsa", "asd", "");
 end
+
+sUpdateScriptFile = scripts_dir .. "\\0021_UpdBuyAppLink";
+if File.DoesExist(sUpdateScriptFile .. ".lua") == false then
+File.Copy("AutoPlay\\Docs\\New.txt", sUpdateScriptFile .. ".txt", true, true, false, true, nil);
+sUpdateScript = "buy_app_link = " .. quotes .. "https://secure.2checkout.com/checkout/buy?merchant=251259055878&tpl=default&prod=UMXHVHX0JR&qty=1" .. quotes .. ";\r\nshop_cart_link = buy_app_link;";
+TextFile.WriteFromString(sUpdateScriptFile .. ".txt", sUpdateScript, false);
+File.Rename(sUpdateScriptFile .. ".txt", sUpdateScriptFile .. ".lua");
+Application.RunScriptFile(sUpdateScriptFile .. ".lua");
+end
